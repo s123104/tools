@@ -1,6 +1,7 @@
 {
   "name": "next-js-boilerplate",
   "author": "Ixartz (https://github.com/ixartz)",
+  "packageManager": "pnpm@9.12.3",
   "engines": {
     "node": ">=20"
   },
